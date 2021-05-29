@@ -10,7 +10,7 @@ public class Task06 {
         int a = sc.nextInt();
         System.out.println("Введите число 2: ");
         int b = sc.nextInt();
-        String a_s = Integer.toString(a);
+        String a_s = Integer.toString(a);// правильно именуем переменные, прочитать вот это https://www.oracle.com/technetwork/java/codeconventions-150003.pdf
         String b_s = Integer.toString(b);
         String c_s = a_s+b_s;
         HashSet<Character> charSet = new HashSet<Character>();
