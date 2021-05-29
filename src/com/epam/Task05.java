@@ -1,4 +1,4 @@
-package com.epam;
+package com.epam;// а 4 уровня пакетов куда пропали?)
 
 import java.util.Scanner;
 
